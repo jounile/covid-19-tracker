@@ -3,6 +3,9 @@ Script for tracking covid-19 cases and trend by country
 
 I wrote this script on my iPhone using <a href="https://apps.apple.com/us/app/python-programming-interpreter/id1335895307" target="_blank">Python Programming Interpreter</a> app.
 
+![iPhone screenshot](screenshot.png)
+
+
 # Input
 The input is specified in input.txt
 
